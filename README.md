@@ -42,7 +42,7 @@
 - IAM-based secure access
 - Route 53 for DNS routing
 
-👉 Repo: [AWS-S3-Static-Website](#)
+👉 Repo: https://github.com/sameer-more-cloud-engineer/Amazon-Static-website-hosting.git
 
 ---
 
