@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Sameer More
 
-<!--
-**sameer-more-cloud-engineer/sameer-more-cloud-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud & Backup Engineer with 3+ years of experience in enterprise backup, storage, and AWS cloud technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔹 Storage & Backup Administrator (HP Data Protector, NetBackup)
+- 🔹 AWS Cloud Practitioner (EC2, S3, VPC, IAM, CloudFront)
+- 🔹 Experience with Dell EMC & IBM enterprise storage
+- 🔹 Automation-driven mindset using scripts & AI tools
+- 🔹 Strong exposure to Linux, AIX & Windows environments
+
+---
+
+## 🛠️ Technical Skills
+
+**Cloud (AWS):**
+- EC2, S3, VPC, IAM, CloudFront, Route 53
+- EBS, RDS, CloudWatch, CloudTrail
+- Auto Scaling, Load Balancer
+- AWS Backup, CloudFormation, AWS CLI
+
+**Backup & Storage:**
+- HP Data Protector 10.x
+- Veritas NetBackup
+- Dell EMC (Unisphere, PowerStore)
+- IBM Storage (V5000, V7000, DS8000)
+
+**OS & Tools:**
+- Linux (RHEL), AIX, Windows Server
+- ITSM Tools, NIM Server
+- Backup Monitoring & Reporting Automation
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 High Availability Static Website on Amazon S3
+- Hosted weather web app using S3 static hosting
+- Integrated CloudFront for global content delivery
+- IAM-based secure access
+- Route 53 for DNS routing
+
+👉 Repo: [AWS-S3-Static-Website](#)
+
+---
+
+### 🔹 AWS EC2 Hands-On (Linux & Windows)
+- Launched and managed EC2 instances
+- Security groups, key pairs, EBS volumes
+- Monitoring using CloudWatch
+
+👉 Repo: [AWS-EC2-Labs](#)
+
+---
+
+### 🔹 Backup Job Monitoring & Reporting Automation
+- Automated daily backup health checks
+- Generated reports for failed/successful sessions
+- Improved operational efficiency by 25%
+
+👉 Repo: [Backup-Automation-Scripts](#)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: sameermore394@gmail.com
+- 💼 LinkedIn: linkedin.com/in/sameer-more-394
